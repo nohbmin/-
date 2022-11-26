@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\nohbmin\\nohbmin.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\-\\nohbmin\\nohbmin.csproj",
       "projectName": "nohbmin",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\nohbmin\\nohbmin.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\-\\nohbmin\\nohbmin.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\nohbmin\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\-\\nohbmin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
